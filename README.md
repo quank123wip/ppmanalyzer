@@ -1,5 +1,5 @@
 # ppmanalyzer
-
+### Attention!If you are a windows user, remove```#!/bin/env python```
 ## What's this
 
 It's a python script and it can convert ppm file to a friendlier file
