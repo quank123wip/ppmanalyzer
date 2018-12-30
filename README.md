@@ -8,4 +8,5 @@ It's a python script and it can convert ppm file to a friendlier file
 ```./analyzer.py file1.ppm file2.ppm ...```
 
 ## Thanks:
-memset0
+@memset0
+@abc1763613206
