@@ -4,7 +4,7 @@ import sys
 args=sys.argv
 del args[0]
 if (len(args)==0) :
-    print("analyzer.py Useage:analyzer.py filename.ppm")
+    print("analyzer.py Usage:analyzer.py filename.ppm")
 intBuffer=[]
 def InitintBuffer(filename):
     intBuffer.clear()
